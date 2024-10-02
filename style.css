@@ -1,0 +1,12 @@
+/* A font family name and a generic family name */
+stylesheet
+
+font-family: "Gill Sans Extrabold", sans-serif;
+font-family: "Goudy Bookletter 1911", sans-serif;
+
+
+body {
+  background-image: url(‘https://i.imgur.com/cZKHgmS.jpeg’);
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+}
